@@ -105,7 +105,7 @@ function handleStatus(e){
   setNameSort([]);
   setOirginSort([]);
 }
-//Here im doing same thing as in previous function just with species
+//Here im doing same thing as in previous function just with species.
 function handleSpecies(e){
   setSpecies(e.target.value);
   setNameSort([]);
